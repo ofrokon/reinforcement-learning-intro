@@ -16,7 +16,7 @@ To run these scripts, you need Python 3.6 or later. Follow these steps to set up
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/reinforcement-learning-intro.git
+   git clone https://github.com/ofrokon/reinforcement-learning-intro.git
    cd reinforcement-learning-intro
    ```
 
