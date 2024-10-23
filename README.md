@@ -69,6 +69,6 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-For a detailed explanation of Reinforcement Learning concepts and their implementation using PyTorch, check out the accompanying Medium post: [Reinforcement Learning: Teaching Machines Through Trial and Error](https://medium.com/yourusername/reinforcement-learning-teaching-machines-through-trial-and-error)
+For a detailed explanation of Reinforcement Learning concepts and their implementation using PyTorch, check out the accompanying Medium post: [Reinforcement Learning: Teaching Machines Through Trial and Error](https://medium.com/@mroko001/reinforcement-learning-teaching-machines-through-trial-and-error-a23ec84f049c)
 
 For questions or feedback, please open an issue in this repository.
